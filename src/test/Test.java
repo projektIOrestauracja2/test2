@@ -37,7 +37,7 @@ public class Test {
     private static class Tiger extends Cat {
         @Override
         public void shout(){
-            System.out.println("Roarllll!!!");
+            System.out.println("Roar!!!");
         }
     }
     
